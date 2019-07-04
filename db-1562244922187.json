@@ -1,0 +1,44 @@
+{
+  "trades": [
+    {
+      "id": 1562244454524,
+      "quantity": "100000",
+      "side": "BUY",
+      "ticker": "APPL",
+      "name": "Apple Inc",
+      "orderType": "10-20%"
+    },
+    {
+      "id": 1562244514019,
+      "quantity": "2030034",
+      "side": "SELL",
+      "ticker": "IBM",
+      "name": "International business machine",
+      "orderType": "10-30% POV"
+    },
+    {
+      "id": 1562244529615,
+      "quantity": "2030034",
+      "side": "SELL",
+      "ticker": "IBM",
+      "name": "International business machine",
+      "orderType": "10-30% POV"
+    },
+    {
+      "id": 1562244536154,
+      "quantity": "2030034",
+      "side": "SELL",
+      "ticker": "IBM",
+      "name": "International business machine",
+      "orderType": "10-30% POV"
+    },
+    {
+      "id": 1562244651783,
+      "quantity": "3294000",
+      "side": "BUY",
+      "ticker": "GOOG",
+      "name": "Alphabet Inc Class C",
+      "orderType": "Mach 2"
+    }
+  ]
+}
